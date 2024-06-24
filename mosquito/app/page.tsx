@@ -8,7 +8,6 @@ export default function Home() {
   return (
     <main >
       <div >
-        <h1>YO</h1>
         <Link href="/users">Users</Link>
         <ProductCard />
       </div>
